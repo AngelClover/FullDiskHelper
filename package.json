@@ -1,0 +1,19 @@
+{
+  "name": "fulldiskhelper",
+  "version": "1.0.0",
+  "description": "help u find the biggest files in ur disk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelClover/FullDiskHelper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelClover/FullDiskHelper/issues"
+  },
+  "homepage": "https://github.com/AngelClover/FullDiskHelper#readme"
+}
